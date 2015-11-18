@@ -4,7 +4,7 @@
 set tabstop=4
 set nu "line number
 
-set expandtab "switch space to tab
+set expandtab "switch tab to space
 set shiftwidth=4
 set softtabstop=4
 
