@@ -8,6 +8,8 @@ set expandtab "switch tab to space
 set shiftwidth=4
 set softtabstop=4
 
+set modeline "auto load mode line
+
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
 " Last change:	2014 Nov 05
 "
