@@ -10,6 +10,9 @@ set softtabstop=4
 
 set modeline "auto load mode line
 
+"share clip board with system
+set clipboard=unnamed
+
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
 " Last change:	2014 Nov 05
 "
